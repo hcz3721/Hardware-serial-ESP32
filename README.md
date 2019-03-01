@@ -5,3 +5,4 @@
 | GND  | GND |
 | D23 | TX |
 | D22 | RX |
+* Baud 115200
